@@ -5,10 +5,10 @@
 }
 
 html, body {
-  color: white;
-  background-color: #1b1b32;
-  font-family: Lato, sans-serif;
-  margin-top: 40px;
+  color: #353634;
+  background-color: #292938;
+  margin-top: 15px;
+  font-family: 'Caveat', cursive;
 }
 
 .task-container {
@@ -21,16 +21,14 @@ html, body {
 .list-container {
   width: 600px;
   min-height: 500px;
-  background-color: #d0d0d5;
-  padding: 25px;
-  border: 10px;
-  border-radius: 26px;
+  background-color: #C7CEEA;
+  padding: 10px 25px 25px 25px;
+  border-radius: 5px;
 }
 
 .main-title {
   color: #1b1b32;
-  font-size: 25px;
-  font-family: Roboto, sans-serif;
+  font-size: 68px;
+  font-family: 'Caveat', cursive;
   text-align: center;
-  margin: 20px 0px;
 }
